@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 📫 How to reach me: 
+📫 Some of the ways to reach me: 
 
 <p align="center">
   <a href="https://twitter.com/mkdizajn" target="_blank">
