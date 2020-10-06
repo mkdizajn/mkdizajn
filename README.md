@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="635" src="https://github.com/mkdizajn/mkdizajn/blob/master/cat.gif?raw=true" alt="Hey I'm mkdizajn">
+  <img width="635" src="https://github.com/mkdizajn/mkdizajn/blob/main/cat.gif?raw=true" alt="Hey I'm mkdizajn">
 </p>
 
 📫 Some of the ways to reach me: 
