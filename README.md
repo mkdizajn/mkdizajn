@@ -5,6 +5,7 @@
   <img width="635" src="https://github.com/mkdizajn/mkdizajn/blob/main/cat.gif?raw=true" alt="Hey I'm mkdizajn">
 </p>
 
+
 📫 Some of the ways to reach me: 
 
 <p align="center">
@@ -15,6 +16,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   </a>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkdizajn&show_icons=true&count_private=true&theme=buefy" />
 </p>
 
 <!--
